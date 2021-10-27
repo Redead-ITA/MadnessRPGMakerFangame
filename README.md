@@ -2,28 +2,39 @@
 An RPGMAKER XP Fan game based on the Madness combat series by Matt "Krinkles" Jolly
 
 Credits: 
+
 MATT JOLLY For the madness combat series.
 * https://krinkels.newgrounds.com/
+
+
 Redead-ITA For spriting and litterally doing everything else.
 * https://redead-ita.newgrounds.com/
+
+
 RM XP SCRIPTS:
 Tons of Add-ons licensed under BSD License 2.0, Copyright (c) Boris "Blizzard" Mikić, KK20, Fantasist, NAMKCOR, Zan, game_guy, TerreAqua, Heretic
 * get it here: https://forum.chaos-project.com/index.php/topic,105.0.html?PHPSESSID=8543a964e436518781694c0c33ff1f23
+
+
 Weapon Attacks by Skill or Item by Wecoc 
 * get it here: https://forum.chaos-project.com/index.php/topic,14501.msg188048.html#msg188048
+
+
 James Paddock for the Midi music being used (Creative License 4.0 (CC-BY-NC-SA)).
 * https://www.jamespaddockmusic.com/
+
+
 
 ## FAQ
 ### How do i download this.
 You can download the game by pressing Code>download Zip
 
 ### Game doesn't run
-#### Make sure also to download the RTP of the RPG MAKER XP, without the game won't run https://www.rpgmakerweb.com/run-time-package
+#### Make sure also to download the RTP of the RPG MAKER XP, without it, the game won't run https://www.rpgmakerweb.com/run-time-package
 
 ### Will this game cost
 No, it never will be, and never i shall allow it.
-Plus Matt would probably crush me if i do.
+Plus Matt would probably crush me if i did, that also means you too bootleggers.
 
 ### ADDITIONAL NOTES
 
