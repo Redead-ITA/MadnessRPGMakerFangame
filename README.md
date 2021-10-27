@@ -39,6 +39,7 @@ Plus Matt would probably crush me if i did, that also means you too bootleggers.
 ### Can i Contribute to this?
 I don't expect contributions at all, but if you really want to i can use midi songs potentially of original composition, if you are interested Let me know, via making a thread or by other means, additionally if you really want to do sprites for the project (Not needed really) the color pallete used in this is through the EGA Pallete 
 https://lospec.com/palette-list/color-graphics-adapter
+If you want to contribute on maps, or anything similar then get yourself RPG MAKER XP
 
 ### ADDITIONAL NOTES
 
