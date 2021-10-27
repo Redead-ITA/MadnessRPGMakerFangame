@@ -36,6 +36,9 @@ You can download the game by pressing Code>download Zip
 No, it never will be, and never i shall allow it.
 Plus Matt would probably crush me if i did, that also means you too bootleggers.
 
+### Can i Contribute to this?
+I don't expect contributions at all, but if you really want to i can use midi songs potentially of original composition, if you are interested Let me know, via making a thread or by other means.
+
 ### ADDITIONAL NOTES
 
 I don't know what the fuck i am doing in github.
