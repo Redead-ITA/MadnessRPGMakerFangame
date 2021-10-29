@@ -1,6 +1,8 @@
 # MadnessRPGMakerFangame (Name Pending)
 An RPGMAKER XP Fan game based on the Madness combat series by Matt "Krinkles" Jolly
 
+# NOTE FOR NEW PEOPLE WHO WANT TO PLAY THE GAME READ ON THE BOTTOM SCREEN.
+
 Credits: 
 
 MATT JOLLY For the madness combat series.
@@ -28,9 +30,10 @@ James Paddock for the Midi music being used (Creative License 4.0 (CC-BY-NC-SA))
 ## FAQ
 ### How do i download this.
 You can download the game by pressing Code>download Zip
-
-### Game doesn't run
 #### Make sure also to download the RTP of the RPG MAKER XP, without it, the game won't run https://www.rpgmakerweb.com/run-time-package
+
+### Why do i start in a cube?
+That's the debug room, if you want to start the game normaly you need to talk to the guy on the right.
 
 ### Will this game cost
 No, it never will be, and never i shall allow it.
