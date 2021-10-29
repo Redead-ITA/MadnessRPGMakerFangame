@@ -1,7 +1,7 @@
 # MadnessRPGMakerFangame (Name Pending)
 An RPGMAKER XP Fan game based on the Madness combat series by Matt "Krinkles" Jolly
 
-# NOTE FOR NEW PEOPLE WHO WANT TO PLAY THE GAME READ ON THE BOTTOM SCREEN.
+# NOTE FOR NEW PEOPLE WHO WANT TO PLAY THE GAME READ THE FAQ AT THE BOTTOM
 
 Credits: 
 
