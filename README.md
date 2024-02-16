@@ -29,8 +29,20 @@ James Paddock for the Midi music being used (Creative License 4.0 (CC-BY-NC-SA))
 
 ## FAQ
 ### How do i download this.
+### NOTE: I MISTAKENLY POSTED MY UPDATES IN THE FRONT MAIN DIRECTORY AND NOT IN THE INTENDED DIRECTORIES, this tutorial will tell you how to fix them but in the future i will see to make a proper download.
 You can download the game by pressing Code>download Zip
 #### Make sure also to download the RTP of the RPG MAKER XP, without it, the game won't run https://www.rpgmakerweb.com/run-time-package
+Grab these following folders and put them in Graphics folder
+#### Battlebacks
+#### Characters
+#### Icons
+#### Panoramas
+#### Pictures
+#### TileSets
+#### WindowsSkin
+If it asks you if you want to replace them, click on yes.
+Next, you want to grab all the .rxdata files and put them all in the data folder
+
 
 ### Why do i start in a cube?
 That's the debug room, if you want to start the game normaly you need to talk to the guy on the right.
